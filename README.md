@@ -1,4 +1,4 @@
-![Imagem de Fundo](foto-linkedin.png)
+![Imagem de Fundo](background-foto.png)
 
 <h1 align="center">Hi, I'm Bruno Perrotta</h1>
 <h3 align="center">Inspired about building data-driven strategies</h3>
