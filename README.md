@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bruno Perrotta</h1>
 <h3 align="center">Fascinated by statistical analysis</h3>
 
-- 👨‍💻 All of my projects are available at [troopl.com/perrotta3](troopl.com/perrotta3)
+- 👨‍💻 All of my projects are available at [https://troopl.com/perrotta3](https://troopl.com/perrotta3)
 
 - 📫 How to reach me **brunoperrotta@gmail.com**
 
